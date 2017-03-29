@@ -2,4 +2,6 @@
     <string name="app_name">Lesson1</string>
     <string name="btn1">按钮1</string>
     <string name="btn2">按钮2</string>
+    <string name="text_1">this is a lifecycle</string>
+    <string name="text_2">this is a dialog</string>
 </resources>
